@@ -1,0 +1,14 @@
+.title h1 {
+    font-size: 3.5rem;
+    font-weight: 350;
+}
+
+.left_container p {
+    letter-spacing: .1rem;
+}
+
+@media screen and (max-width: 995px) {
+    .skill_title h2 {
+        margin-top: 2rem;
+    }
+}

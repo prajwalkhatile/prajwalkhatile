@@ -1,0 +1,42 @@
+.inner_container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: start;
+}
+
+.inner_container h1 {
+    font-size: 4.5rem;
+    letter-spacing: .3rem;
+    font-weight: 350;
+    text-align: left;
+}
+
+.inner_container p {
+    font-size: 1.25rem;
+    color: #777777;
+}
+
+.inner_container2 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inner_container2 img {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 776px) {
+    .inner_container {
+        height: 400px;
+    }
+    .inner_container2 {
+        height: 400px;
+    }
+}
