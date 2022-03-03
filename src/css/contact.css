@@ -1,0 +1,14 @@
+.style_img {
+    padding: 2rem;
+}
+
+.style_img img {
+    height: 40px;
+    width: 40px;
+}
+
+@media screen and (max-width: 600px) {
+    .style_img {
+        padding: 1rem;
+    }
+}
