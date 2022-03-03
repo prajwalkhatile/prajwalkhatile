@@ -12,13 +12,14 @@ const Body = () => {
             <h1>Prajwal khatile</h1>
             <p>
               {" "}
-              An MERN stack web developer also passionate about learning new
-              technology.{" "}
+              I am a web developer with a good knowledge in front end and back
+              end languages, responsive frameworks, databases, and best code
+              practices.
             </p>
 
             <a href={resume} download="Resume.pdf">
               <button type="button" type="submit" className="btn btn-secondary">
-                Resume
+                Download CV
               </button>
             </a>
           </div>

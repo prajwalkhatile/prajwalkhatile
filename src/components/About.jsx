@@ -12,10 +12,10 @@ const About = () => {
           <h2>Hello!</h2>
           <div className="mt-5">
             <p>
-              My name is Prajwal. I’m from Maharashtra,IN. I'm student of
-              Computer science and Engineering💻. I'm deeply passionate about
-              web development . Currently looking for opportunity to serve as
-              web development intern.
+              I'm a web developer with a focus on the MERN stack, but still
+              exploring other technologies and frameworks that catch my
+              interest! if you're looking for a developer to add to your team,
+              I'd love to hear from you!
             </p>
           </div>
         </div>

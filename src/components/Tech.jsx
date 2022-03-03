@@ -2,7 +2,6 @@ import React from "react";
 import "../css/tech.css";
 import js from "../icons/js.png";
 import bootstrap from "../icons/bootstrap.jpg";
-import cl from "../icons/clanguage.png";
 import css from "../icons/css.png";
 import db from "../icons/db.png";
 import ex from "../icons/express.jpg";
@@ -12,6 +11,7 @@ import ui from "../icons/materialui.png";
 import node from "../icons/node.png";
 import react from "../icons/react.png";
 import git3 from "../icons/git3.png";
+import cpp from "../icons/cpp.png";
 
 const Tech = () => {
   return (
@@ -23,7 +23,7 @@ const Tech = () => {
         <div className="row">
           <div className="col-lg-3 col-md-4">
             <div className="d-flex skill">
-              <img className="logo_style" src={cl} alt="c" /> <p>C</p>
+              <img className="logo_style" src={cpp} alt="c" /> <p>C</p>
             </div>
             <div className="d-flex skill">
               <img className="logo_style" src={react} alt="react" />{" "}
